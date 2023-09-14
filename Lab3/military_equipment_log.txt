@@ -1,0 +1,60 @@
+Name: Tactical Harness
+Weight: 1200.0 g
+Price: $250.0
+Description: High-quality tactical harness for military alpinists
+
+Name: Climbing Helmet
+Weight: 800.0 g
+Price: $150.0
+Description: Durable climbing helmet with night vision mount
+
+Name: Rope Ladder
+Weight: 1500.0 g
+Price: $300.0
+Description: Special rope ladder for covert operations
+
+Name: Tactical Harness
+Weight: 1200.0 g
+Price: $250.0
+Description: High-quality tactical harness for military alpinists
+
+Name: Climbing Helmet
+Weight: 800.0 g
+Price: $150.0
+Description: Durable climbing helmet with night vision mount
+
+Name: Rope Ladder
+Weight: 1500.0 g
+Price: $300.0
+Description: Special rope ladder for covert operations
+
+Name: Tactical Harness
+Weight: 1200.0 g
+Price: $250.0
+Description: High-quality tactical harness for military alpinists
+
+Name: Climbing Helmet
+Weight: 800.0 g
+Price: $150.0
+Description: Durable climbing helmet with night vision mount
+
+Name: Rope Ladder
+Weight: 1500.0 g
+Price: $300.0
+Description: Special rope ladder for covert operations
+
+Name: Tactical Harness
+Weight: 1200.0 g
+Price: $250.0
+Description: High-quality tactical harness for military alpinists
+
+Name: Climbing Helmet
+Weight: 800.0 g
+Price: $150.0
+Description: Durable climbing helmet with night vision mount
+
+Name: Rope Ladder
+Weight: 1500.0 g
+Price: $300.0
+Description: Special rope ladder for covert operations
+

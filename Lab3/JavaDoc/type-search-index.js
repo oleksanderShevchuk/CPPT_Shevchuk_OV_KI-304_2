@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"KI304.Shevchuk.Lab3","l":"AlpinistsEquipment"},{"p":"KI304.Shevchuk.Lab3","l":"MilitaryAlpinistsEquipment"},{"p":"KI304.Shevchuk.Lab3","l":"MilitaryAlpinistsEquipmentApp"},{"p":"KI304.Shevchuk.Lab3","l":"MilitaryEquipment"}];updateSearchResults();
