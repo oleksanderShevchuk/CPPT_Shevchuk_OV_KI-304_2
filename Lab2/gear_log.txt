@@ -1,0 +1,14 @@
+[2023-09-13 19:43:33] Inspected equipment: Tactical Harness
+[2023-09-13 19:43:33] Inspected equipment: Climbing Helmet
+[2023-09-13 19:43:33] Inspected equipment: Rope Ladder
+[2023-09-13 19:43:33] Logged equipment item: Tactical Harness
+[2023-09-13 19:43:33] Logged equipment item: Climbing Helmet
+[2023-09-13 19:43:33] Logged equipment item: Rope Ladder
+[2023-09-14 10:56:51] Inspected equipment: Climbing Rope
+[2023-09-14 10:56:51] Inspected equipment: Carabiner
+[2023-09-14 10:56:51] Inspected equipment: Crampons
+[2023-09-14 10:56:51] Equipment item used: Climbing Rope
+[2023-09-14 10:56:51] Equipment item used: Carabiner
+[2023-09-14 10:56:51] Logged equipment item: Climbing Rope
+[2023-09-14 10:56:51] Logged equipment item: Carabiner
+[2023-09-14 10:56:51] Logged equipment item: Crampons

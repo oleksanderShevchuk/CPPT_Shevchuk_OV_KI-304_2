@@ -1,0 +1,15 @@
+Name: Climbing Rope
+Weight: 2500.0 g
+Price: $150.0
+Description: High-quality climbing rope for alpinists
+
+Name: Carabiner
+Weight: 100.0 g
+Price: $20.0
+Description: Durable carabiner for safety
+
+Name: Crampons
+Weight: 1800.0 g
+Price: $0.0
+Description: Spiked boots for ice climbing
+
